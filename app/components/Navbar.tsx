@@ -21,7 +21,7 @@ const ROLE_PILLS = [
 const CONTACT_ITEMS = [
   { label: "Email", value: "saatwikamattawork23@gmail.com", href: "mailto:saatwikamattawork23@gmail.com" },
   { label: "LinkedIn", value: "linkedin.com/in/saatwikamatta", href: "https://linkedin.com/in/saatwikamatta" },
-  { label: "GitHub", value: "github.com/saatwikamatta", href: "https://github.com/saatwikamatta" },
+  { label: "GitHub", value: "github.com/saatwika-matta", href: "https://github.com/saatwika-matta" },
   { label: "Phone", value: "857-385-2572", href: "tel:+18573852572" },
 ];
 

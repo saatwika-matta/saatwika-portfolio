@@ -15,7 +15,7 @@ const LINKS = [
   },
   {
     label: "GitHub",
-    href: "https://github.com/saatwikamatta",
+    href: "https://github.com/saatwika-matta",
     primary: false,
   },
 ];
